@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ramyaavv
 - 👀 I’m interested in competitive coding
-- 🌱 I’m currently learning data structures and algorithm
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 
